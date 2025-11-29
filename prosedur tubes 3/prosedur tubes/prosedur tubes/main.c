@@ -9,7 +9,7 @@ int main() {
     createEmpty(&L);
 
     // Landing
-    printf("\n [*] Terima kasih [*]\n");
+    printf("\n [*] Terima kasih aja [*]\n");
     
     //cobadoangggyaa
     printf("HAIIAIIA");
