@@ -11,6 +11,9 @@ int main() {
     // Landing
     printf("\n [*] Terima kasih [*]\n");
     
+    //cobadoangggyaa
+    printf("HAIIAIIA");
+    
     system("cls");
     tampilEtalaseMobil(L);
     printf("Tekan tombol apapun untuk masuk ke Menu Utama...\n");
