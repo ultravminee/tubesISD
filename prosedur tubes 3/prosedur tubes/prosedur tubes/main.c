@@ -9,6 +9,8 @@ int main() {
     createEmpty(&L);
 
     // Landing
+    printf("\n [*] Terima kasih [*]\n");
+    
     system("cls");
     tampilEtalaseMobil(L);
     printf("Tekan tombol apapun untuk masuk ke Menu Utama...\n");
